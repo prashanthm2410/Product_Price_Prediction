@@ -1,10 +1,15 @@
-###Step1
-Extract the models.zip in same location with same
+# Steps to Run the Project
 
-###Step2
-Inside the extracted folder run the index.py file
+### Step 1: Extract the `models.zip`
 
-###Step3
-The Web is Live in the Server http://127.0.0.1:5000/
+Extract the `models.zip` file in the same location. This will create a folder named `models`.
 
-Refer demo.mp4 inside models folder for a demo video
+### Step 2: Run the `index.py` File
+
+Inside the extracted `models` folder, run the `index.py` file.
+
+### Step 3: Access the Web Application
+
+The web application will be live at [http://127.0.0.1:5000/](http://127.0.0.1:5000/).
+
+Refer to `demo.mp4` inside the `models` folder for a demo video.
